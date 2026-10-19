@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/processed/
+data/external/geonames/
+models/*.joblib
+reports/figures/
+data/raw/
