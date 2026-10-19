@@ -2,8 +2,8 @@
 __pycache__/
 .pytest_cache/
 *.pyc
-data/processed/
+data/processed/*
+!data/processed/orders_geo.csv
 data/external/geonames/
-models/*.joblib
 reports/figures/
 data/raw/
